@@ -14,3 +14,13 @@
 * 8. Implemente um sistema de caixa registradora onde o usuário insere valores dos produtos. A entrada de 0 indica o fim da compra. Exiba o total da compra, peça o valor pago e exiba o troco. Após isso, o programa deve reiniciar para um novo cliente.
 * 9. Implemente um sistema onde o usuário insere o código e a quantidade dos produtos desejados. O programa deve calcular o valor total e permitir que o usuário finalize o pedido digitando 0.
 * 10. Implemente um sistema de votação onde o usuário pode votar em candidatos (1 a 4), nulo (5) ou branco (6). O programa deve exibir o total de votos de cada tipo e a porcentagem de votos nulos e brancos. A entrada 0 encerra a votação.
+---
+
+
+### Aula 19
+
+* 1. Escreva um programa que leia um número N e imprima todos os termos da sequência de Fibonacci até que o maior termo seja menor ou igual a N.
+* 2. Escreva um programa que leia um número inteiro positivo e determine se ele é um palíndromo (ou seja, se lido de trás para frente continua igual).
+* 3. Escreva um programa que leia um número inteiro e conte quantos dígitos ele tem.
+* 4. Escreva um programa que leia um número inteiro positivo e determine se ele é um número perfeito. Um número perfeito é aquele cuja soma dos seus divisores próprios (excluindo ele mesmo) é igual ao próprio número.
+* 5. Escreva um programa que leia um número inteiro positivo e determine se ele é um quadrado perfeito (ou seja, se existe um número inteiro x tal que x² = n).
